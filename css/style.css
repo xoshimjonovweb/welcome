@@ -52,7 +52,6 @@ ol {
   height: 32px;
   border-radius: 10px;
   border: 1px solid #D9D9D9;
-  color: var(--muted, #D9D9D9);
   padding-left: 10px;
   font-family: Poppins;
   font-size: 10px;
@@ -70,7 +69,6 @@ ol {
   height: 32px;
   border-radius: 10px;
   border: 1px solid #D9D9D9;
-  color: var(--muted, #D9D9D9);
   padding-left: 10px;
   font-family: Poppins;
   font-size: 10px;
@@ -194,4 +192,8 @@ ol {
   font-weight: 500;
   line-height: normal;
   }
+}
+.email:active{
+  border: 1px solid #D9D9D9;
+
 }
